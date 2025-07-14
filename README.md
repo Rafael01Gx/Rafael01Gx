@@ -1,7 +1,13 @@
-# </> Rafael Moraes </>
-### `< Desenvolvedor Full-Stack />` | `Analista de Sistemas`
 
 <div align="center">
+
+<img align="right" src="https://komarev.com/ghpvc/?username=Rafael01Gx&color=0000FF"><br>
+</div>
+<div align="center">
+
+  <a href="https://github.com/Rafael01Gx">
+    <img align="center" src="cover.png">
+  </a>
   
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Sou+Rafael+Moraes+👋;Full-Stack+Developer+💻;Apaixonado+por+Tecnologia+🚀;Transformando+Ideias+em+Código+✨;&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000&color=00D9FF&vCenter=true&size=22)
 
@@ -10,7 +16,10 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://github.com/Rafael01Gx" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-moraes-8aa185276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/xrafaelgx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/rafael01gx" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
 ---
