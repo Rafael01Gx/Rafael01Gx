@@ -6,7 +6,7 @@
 <div align="center">
 
   <a href="https://github.com/Rafael01Gx">
-    <img align="center" src="cover.png">
+    <img align="center" src="cover.png" width="700">
   </a>
   
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Sou+Rafael+Moraes+👋;Full-Stack+Developer+💻;Apaixonado+por+Tecnologia+🚀;Transformando+Ideias+em+Código+✨;&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000&color=00D9FF&vCenter=true&size=22)
