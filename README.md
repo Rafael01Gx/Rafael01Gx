@@ -28,7 +28,7 @@
 
 > *"Sou mais do que apenas um desenvolvedor - sou um contador de histórias digitais, um arquiteto de experiências e um eterno aprendiz no universo da tecnologia."*
 
-**🚀 Desenvolvedor Full-Stack** nascido nas montanhas de **Minas Gerais**, com o coração cheio de café e a mente repleta de códigos! Transformo ideias complexas em soluções elegantes e funcionais, sempre com um toque mineiro de hospitalidade no meu código.
+**🚀 Desenvolvedor Full-Stack** nascido em **Minas Gerais**, com o coração cheio de café e a mente repleta de códigos! Transformo ideias complexas em soluções elegantes e funcionais, sempre com um toque mineiro de hospitalidade no meu código.
 
 Minha jornada começou com a curiosidade de entender como as coisas funcionam "por debaixo dos panos" e evoluiu para a paixão de criar experiências digitais que fazem a diferença na vida das pessoas. Cada linha de código que escrevo carrega a intenção de tornar o mundo um pouco mais conectado e eficiente.
 
@@ -220,7 +220,7 @@ mindmap
 
 <div align="center">
   
-🎵 **Playlist de Código**: Lo-fi Hip Hop + Café = Produtividade Máxima  
+🎵 **Playlist de Código**: Rock ou Clássica + Café = Produtividade Máxima  
 🌄 **Inspiração**: As montanhas de Minas me ensinam que todo grande projeto começa com uma base sólida  
 🍕 **Fuel**: Pizza + Código = Combinação perfeita para madrugadas produtivas  
 🎮 **Break Time**: Gamer nas horas vagas - estratégia também é código!  
