@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/Rafael01Gx" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-moraes-8aa185276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-moraes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/xrafaelgx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/rafael01gx" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
@@ -37,7 +37,7 @@ Criar soluções tecnológicas que não apenas funcionem, mas que encantem, surp
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-🤝_Vamos_Conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-moraes-8aa185276)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-🤝_Vamos_Conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-moraes-dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-🌐_Meu_Mundo_Digital-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://rafaelmoraesdev.com.br)
 [![Email](https://img.shields.io/badge/Email-📧_Bora_Criar_Algo_Incrível-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael_junio_moraes@hotmail.com)
 
@@ -247,7 +247,7 @@ Sou aquele tipo de pessoa que acredita que **duas mentes pensam melhor que uma**
 
 ### 📬 **Canais de Comunicação**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-🤝_Networking_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-moraes-8aa185276)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-🤝_Networking_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-moraes-dev)
 [![Email](https://img.shields.io/badge/Email-📧_Conversa_Direta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael_junio_moraes@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-💬_Bate_Papo_Rápido-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531992482029)
 
