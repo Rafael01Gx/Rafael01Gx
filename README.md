@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Rafael01Gx&color=0000FF"><br>
@@ -9,7 +8,7 @@
     <img align="center" src="cover.png" width="700">
   </a>
   
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Sou+Rafael+Moraes+👋;Full-Stack+Developer+💻;Apaixonado+por+Tecnologia+🚀;Transformando+Ideias+em+Código+✨;&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000&color=00D9FF&vCenter=true&size=22)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Sou+Rafael+Moraes+👋;Full-Stack+Developer+💻;Java+%7C+Spring+%7C+TypeScript+☕;Apaixonado+por+Tecnologia+🚀;Transformando+Ideias+em+Código+✨;&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000&color=00D9FF&vCenter=true&size=22)
 
 </div>
 
@@ -56,10 +55,24 @@ Criar soluções tecnológicas que não apenas funcionem, mas que encantem, surp
 
 ### ⚙️ Backend - *A Força Por Trás da Aplicação*
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,typescript,docker,kubernetes" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,nodejs,express,typescript,docker,kubernetes" alt="Backend Skills" />
 </div>
 
  *"Construo APIs robustas e escaláveis que aguentam qualquer tempestade de requisições"*
+
+#### ☕ **Java Ecosystem - O Poder Corporativo**
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+
+</div>
+
+ *"Desenhando arquiteturas que encontram caminhos que nem eu sabia que existiam"
 
 ### 🗄️ Banco de Dados - *Onde os Dados Ganham Vida*
 <div align="center">
@@ -70,7 +83,7 @@ Criar soluções tecnológicas que não apenas funcionem, mas que encantem, surp
 
 ### 🔧 DevOps & Ferramentas - *O Ecossistema Perfeito*
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,firebase,aws,gcp,vscode,postman" alt="DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,firebase,aws,gcp,vscode,postman,maven,gradle" alt="DevOps Skills" />
 </div>
 </div>
 
@@ -103,7 +116,7 @@ Criar soluções tecnológicas que não apenas funcionem, mas que encantem, surp
   
 ### 🌟 Destaques da Minha Criatividade
 
-<a href="[https://github.com/Rafael01Gx/projeto-inovador](https://github.com/Rafael01Gx/gsap_Awwwards)">
+<a href="https://github.com/Rafael01Gx/gsap_Awwwards">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael01Gx&repo=gsap_Awwwards&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" />
 </a>
 <a href="https://github.com/Rafael01Gx/nest-lab-api">
@@ -124,35 +137,42 @@ Criar soluções tecnológicas que não apenas funcionem, mas que encantem, surp
 
 ## 💡 Minha Filosofia de Código
 
-```typescript
-class RafaelMoraes implements Developer {
-  readonly name = 'Rafael Moraes';
-  readonly location = 'Minas Gerais, Brasil 🇧🇷';
-  readonly passion = 'Transformar café em código extraordinário ☕';
-  
-  private skills = {
-    frontend: ['Angular', 'TypeScript', 'Ionic', 'HTML5', 'CSS3'],
-    backend: ['NestJS', 'Node.js', 'Express.js', 'TypeScript'],
-    database: ['MongoDB', 'MySQL', 'PostgreSQL', 'Prisma ORM'],
-    architecture: ['Clean Architecture', 'SOLID', 'DDD', 'TDD'],
-    mindset: ['Curiosidade', 'Inovação', 'Colaboração', 'Excelência']
-  };
-  
-  getCurrentFocus(): string {
-    return 'Construindo o futuro, uma linha de código por vez';
-  }
-  
-  getMotivation(): string {
-    return 'Cada problema é uma oportunidade de crescimento disfarçada';
-  }
-  
-  getDreamProject(): string {
-    return 'Criar tecnologia que democratize o acesso à educação';
-  }
+```java
+@Service
+@RequiredArgsConstructor
+public class RafaelMoraesService implements Developer {
+    
+    private final String name = "Rafael Moraes";
+    private final String location = "Minas Gerais, Brasil 🇧🇷";
+    private final String passion = "Transformar café em código extraordinário ☕";
+    
+    @Data
+    @Builder
+    private static class Skills {
+        private List<String> frontend = List.of("Angular", "React", "TypeScript", "Ionic", "HTML5", "CSS3");
+        private List<String> backend = List.of("Java", "Spring Boot", "NestJS", "Node.js", "Express.js");
+        private List<String> database = List.of("MongoDB", "MySQL", "PostgreSQL", "Prisma ORM");
+        private List<String> testing = List.of("JUnit 5", "Mockito", "Spring Test", "TDD");
+        private List<String> architecture = List.of("Clean Architecture", "SOLID", "DDD", "Design Patterns");
+        private List<String> security = List.of("Spring Security", "JWT", "OAuth2", "SSL/TLS");
+        private List<String> mindset = List.of("Curiosidade", "Inovação", "Colaboração", "Excelência");
+    }
+    
+    public String getCurrentFocus() {
+        return "Construindo sistemas enterprise escaláveis com Spring Boot e arquitetura limpa";
+    }
+    
+    public String getMotivation() {
+        return "Cada problema é uma oportunidade de crescimento disfarçada";
+    }
+    
+    @Transactional
+    public String getDreamProject() {
+        return "Criar tecnologia que democratize o acesso à educação";
+    }
+    
+    // Clean Code + SOLID em ação! 🚀
 }
-
-const developer = new RafaelMoraes();
-console.log(developer.getCurrentFocus()); // 🚀
 ```
 
 ---
@@ -180,10 +200,12 @@ console.log(developer.getCurrentFocus()); // 🚀
 mindmap
   root((Rafael))
     Excelência
-      Qualidade de Código
-      Melhores Práticas
+      Clean Code
+      SOLID Principles
+      Best Practices
       Performance
     Inovação
+      Spring Ecosystem
       Novas Tecnologias
       Soluções Criativas
       Pensamento Disruptivo
@@ -192,6 +214,7 @@ mindmap
       Mentoria
       Open Source
     Crescimento
+      TDD & BDD
       Aprendizado Contínuo
       Desafios
       Evolução
@@ -207,9 +230,11 @@ mindmap
   
 | 🔥 **Tecnologia** | 📊 **Progresso** | 🎯 **Objetivo** |
 |:---:|:---:|:---:|
-| **IA & Machine Learning** | ![Progress](https://img.shields.io/badge/Progress-75%25-brightgreen) | Integrar IA nas aplicações |
+| **Spring Boot 3.x** | ![Progress](https://img.shields.io/badge/Progress-85%25-brightgreen) | APIs RESTful robustas |
 | **Microserviços** | ![Progress](https://img.shields.io/badge/Progress-80%25-brightgreen) | Arquiteturas escaláveis |
-| **Cloud Native** | ![Progress](https://img.shields.io/badge/Progress-70%25-yellow) | Deploy na nuvem |
+| **Spring Security** | ![Progress](https://img.shields.io/badge/Progress-90%25-brightgreen) | Segurança enterprise |
+| **TDD com JUnit & Mockito** | ![Progress](https://img.shields.io/badge/Progress-85%25-brightgreen) | Código testável e confiável |
+| **Cloud Native (AWS/GCP)** | ![Progress](https://img.shields.io/badge/Progress-70%25-yellow) | Deploy na nuvem |
 | **GraphQL** | ![Progress](https://img.shields.io/badge/Progress-85%25-brightgreen) | APIs mais eficientes |
 
 </div>
@@ -220,11 +245,38 @@ mindmap
 
 <div align="center">
   
-🎵 **Playlist de Código**: Rock ou Clássica + Café = Produtividade Máxima  
+☕ **Café & Código**: Java (linguagem) + Java (café) = Produtividade infinita!  
+🎵 **Playlist de Código**: Rock ou Clássica para debugar, Lo-fi para criar  
 🌄 **Inspiração**: As montanhas de Minas me ensinam que todo grande projeto começa com uma base sólida  
 🍕 **Fuel**: Pizza + Código = Combinação perfeita para madrugadas produtivas  
 🎮 **Break Time**: Gamer nas horas vagas - estratégia também é código!  
-📚 **Sempre Lendo**: Livros de tecnologia, filosofia e ficção científica  
+📚 **Sempre Lendo**: Clean Code, Domain-Driven Design e ficção científica  
+🧪 **TDD Lover**: Red, Green, Refactor - o mantra perfeito!  
+
+</div>
+
+---
+
+## 🏗️ Princípios que Guiam Meu Código
+
+<div align="center">
+
+### ⚡ SOLID em Ação
+
+```
+🔹 S - Single Responsibility: Uma classe, uma responsabilidade
+🔹 O - Open/Closed: Aberto para extensão, fechado para modificação  
+🔹 L - Liskov Substitution: Subtipos devem ser substituíveis
+🔹 I - Interface Segregation: Interfaces específicas e enxutas
+🔹 D - Dependency Inversion: Dependa de abstrações, não de implementações
+```
+
+### 🧹 Clean Code Mindset
+
+![Clean Code](https://img.shields.io/badge/Clean_Code-Sempre-success?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-Test_First-red?style=for-the-badge)
+![DRY](https://img.shields.io/badge/DRY-Don't_Repeat_Yourself-yellow?style=for-the-badge)
 
 </div>
 
@@ -239,10 +291,11 @@ mindmap
 Sou aquele tipo de pessoa que acredita que **duas mentes pensam melhor que uma**. Se você tem uma ideia maluca, um projeto desafiador ou simplesmente quer trocar uma ideia sobre tecnologia, eu estou aqui!
 
 **🚀 Seja para:**
-- Desenvolver uma aplicação revolucionária
+- Desenvolver uma aplicação revolucionária com Spring Boot
 - Resolver um problema técnico complexo  
 - Fazer uma mentoria ou ser mentorado
 - Contribuir para projetos open source
+- Debater sobre Clean Architecture e Design Patterns
 - Ou simplesmente tomar um café virtual e falar sobre o futuro da tech
 
 ### 📬 **Canais de Comunicação**
@@ -250,7 +303,6 @@ Sou aquele tipo de pessoa que acredita que **duas mentes pensam melhor que uma**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-🤝_Networking_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-moraes-dev)
 [![Email](https://img.shields.io/badge/Email-📧_Conversa_Direta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael_junio_moraes@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-💬_Bate_Papo_Rápido-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531992482029)
-
 
 </div>
 
@@ -263,11 +315,14 @@ Sou aquele tipo de pessoa que acredita que **duas mentes pensam melhor que uma**
 > *"O código é como poesia - deve ser elegante, expressivo e memorável"*  
 > **- Rafael Moraes**
 
+> *"Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam"*  
+> **- Martin Fowler**
+
 > *"A tecnologia avança quando servimos aos outros, não a nós mesmos"*  
 > **- Tim Cook**
 
-> *"Todo mundo deveria aprender a programar um computador, porque isso ensina você a pensar"*  
-> **- Steve Jobs**
+> *"Clean code always looks like it was written by someone who cares"*  
+> **- Robert C. Martin**
 
 </div>
 
@@ -291,12 +346,12 @@ Sou aquele tipo de pessoa que acredita que **duas mentes pensam melhor que uma**
 
 *Não esqueça de deixar uma* ⭐ *nos repositórios que curtir e vamos juntos transformar o mundo através da tecnologia!*
 
-### 💝 *"Até a próxima commit!"*
+### 💝 *"Até o próximo commit!"*
 
 ---
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" style="width: 100%; height: 100px;"/>
 
-**🚀 Keep coding, keep growing, keep dreaming! 🚀**
+**🚀 Keep coding, keep testing, keep learning! ☕**
 
 </div>
